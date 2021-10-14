@@ -1,5 +1,5 @@
 # datos-tp1
-Trabajos materia Organización de Datos - UBA
+Trabajo Práctico 1 - Organización de Datos - UBA
 
 Tp1_parte1.ipynb : Resolución de Consultas
 
